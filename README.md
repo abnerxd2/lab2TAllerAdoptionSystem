@@ -44,7 +44,7 @@ JWT_SECRET=<tu_secreto_jwt>
 
 
 
-    - **Actualizar Cita**
+ - **Actualizar Cita**
   - **URL:** `http://127.0.0.1:3001/adoptionSystem/v1/appointment/67aac1e727a04ea99fe251ef`
   - **Método:** `PUT`
   - **Cuerpo:**
