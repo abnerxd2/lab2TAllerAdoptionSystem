@@ -1,16 +1,9 @@
 # API del Sistema de Adopción
 
 Esta API está diseñada para gestionar citas para adopciones de mascotas. Incluye funcionalidades para crear, actualizar y listar citas, así como gestionar la información del usuario.
+Esta desarrollada en JavaScript y NodeJS
 
-## Variables de Entorno
 
-Cree un archivo `.env` en el directorio raíz y agregue las siguientes variables:
-
-```
-MONGO_URI=<tu_cadena_de_conexión_mongodb>
-PORT=<tu_puerto_del_servidor>
-JWT_SECRET=<tu_secreto_jwt>
-```
 
 ## Endpoints de la API
 
